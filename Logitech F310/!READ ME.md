@@ -1,4 +1,4 @@
-**Assembly Instructions:** https://docs.google.com/document/d/1P56gSKJkjS4m449Ph8PhUtv-WclVmFy8XE947hqWHps/edit?usp=sharing
+**Assembly Instructions & Details:** https://docs.google.com/document/d/1P56gSKJkjS4m449Ph8PhUtv-WclVmFy8XE947hqWHps/edit?usp=sharing
 
 **3D Viewer & .STEP:** https://a360.co/43gRkJ2
 
